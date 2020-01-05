@@ -1,0 +1,22 @@
+.contacto-container {
+    flex:1;
+    display: flex;
+    flex-direction: column;
+}
+
+.contacto-head {
+    max-width: 100%;
+    height: 240px;
+    border:none;
+}
+
+.contacto-fondo {
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    background: #F3F8FB;
+    margin-top: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+

@@ -42,7 +42,7 @@ export default class NosotrosPage extends Component {
                             <div className='nosotros-title'>
                                 <h1>Casa de cuidado del adulto mayor</h1>
                             </div>
-                            <div className='nosotros-info'>
+                            <div className='nosotros-info'> 
                                 <img src={enfermera} alt='Técnico en enfermería'/>
                                 <img src={enfermero} alt='Técnico en enfermería'/>
                                 <div className='nosotros-info-text'>

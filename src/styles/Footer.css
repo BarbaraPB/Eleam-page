@@ -113,21 +113,25 @@
 .wtsp {
     display: flex;
     flex-direction: row;
+    cursor: pointer;
 }
 
 .mail {
     display: flex;
     flex-direction: row;
+    cursor: pointer;
 }
 
 .map {
     display: flex;
     flex-direction: row;
+    cursor: pointer;
 }
 
 .face {
     display: flex;
     flex-direction: row;
+    cursor: pointer;
 }
 
 .foot {

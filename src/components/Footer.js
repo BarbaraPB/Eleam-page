@@ -31,12 +31,14 @@ export default class Footer extends Component {
                         <Link to='/nosotros'>
                             <button><h6>SOBRE NOSOTROS</h6></button>
                         </Link>
+                        {/*
                         <Link to='/blog'>
                             <button><h6>BLOG</h6></button>
                         </Link>
                         <Link to='/contacto'>
                             <button><h6>CONTACTO</h6></button>
                         </Link>
+                        */}
                     </div>
                     <div className='rrss'>
                         <button className='wtsp'>

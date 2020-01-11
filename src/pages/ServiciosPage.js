@@ -18,7 +18,7 @@ export default class ServiciosPage extends Component {
             <div>
                 <Header/>
                 <div className='servicios-container'>
-                    <div style={{maxWidth:'100vw'}}>
+                    <div style={{width:'100vw'}}>
                         <img src={head} alt='Tipos de servicios' className='servicios-head'/>
                     </div>
                     <div className='servicios-fondo'>

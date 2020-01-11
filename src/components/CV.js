@@ -5,7 +5,7 @@ import { Link } from'react-router-dom'
 
 export default class Curriculum extends Component {
     render() {
-        return (
+        return ( 
             <div className='cv-container'>
                 <div className='a'>
                 </div>

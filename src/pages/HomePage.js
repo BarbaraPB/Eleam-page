@@ -26,7 +26,7 @@ export default class HomePage extends Component {
                                 </Link>
                                 <Link to='' style={{flex:1}}>
                                     <button className='button-home2'>
-                                        <h6>Atención domiciliaria para asultos mayores</h6>
+                                        <h6>Atención domiciliaria para adultos mayores</h6>
                                     </button>
                                 </Link>
                             </div>

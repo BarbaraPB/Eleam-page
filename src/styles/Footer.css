@@ -136,6 +136,16 @@
 
 .foot {
     background-color: #0E7CC9;
-    height: 10px;
+    height: 20px;
     margin-top: 40px;
+}
+
+.foot h5{
+    font-family: 'Roboto',sans-serif;
+    font-style: bold;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    color: white;
+    text-align: center;
 }

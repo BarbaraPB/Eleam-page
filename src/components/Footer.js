@@ -78,6 +78,7 @@ export default class Footer extends Component {
                     </div>
                 </div>
                 <div className='foot'>
+                    <h5>Resolución sanitaria al día</h5>
                 </div>
             </div>
         )

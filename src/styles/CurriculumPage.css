@@ -75,26 +75,14 @@
     margin-inline: 30px;
 }
 
-,.info-detallada img{
-    height: 50px;
-    width: 50px;
-}
-
-.unete{
+.info-detallada img{
     flex-direction: column;
     align-items: center;
     margin-block: 30px;
     height: 450px;
-    width: 150px;
+    width: 450px;
 }
 
-.mail-curriculum{
-    flex-direction: column;
-    align-items: center;
-    margin-block: 30px;
-    height: 450px;
-    width: 150px;
-}
 
 .trabajaConNosotros{
     height: 350px;

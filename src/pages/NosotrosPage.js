@@ -26,7 +26,7 @@ export default class NosotrosPage extends Component {
                     <div className='nosotros-fondo'>
                         <div className='nosotros-domicilio'>
                             <div className='nosotros-title'>
-                                <h1>Atención domiciliaria del adulto mayor</h1>
+                                <h1>Personal domiciliario</h1>
                             </div>
                             <div className='nosotros-info'>
                                 <img src={enfermera} alt='Técnico en enfermería'/>
@@ -40,7 +40,7 @@ export default class NosotrosPage extends Component {
                         <hr className='hr'/>
                         <div className='nosotros-casa'>
                             <div className='nosotros-title'>
-                                <h1>Casa de cuidado del adulto mayor</h1>
+                                <h1>Personal casa de cuidado</h1>
                             </div>
                             <div className='nosotros-info'> 
                                 <img src={enfermera} alt='Técnico en enfermería'/>

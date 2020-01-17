@@ -64,6 +64,7 @@
     border:none;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
 .cv-button h6 {
     font-family: 'Roboto mono',monospace;

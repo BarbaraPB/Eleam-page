@@ -47,23 +47,23 @@ export default class Header extends Component {
                     </div>
                 </div>
                 <div className='header-button'>
-                    <Link to='/'>
-                        <button className='button'><h3>Inicio</h3></button>
+                    <Link to='/' className='link'>
+                        <button className='button'><h1>Inicio</h1></button>
                     </Link>
-                    <Link to='/servicios'>
-                        <button className='button'><h3>Tipos de servicios</h3></button>
+                    <Link to='/servicios' className='link'>
+                        <button className='button'><h1>Tipos de servicios</h1></button>
                     </Link>
-                    <Link to='/residencia'>
-                        <button className='button'><h3>Residencia</h3></button>
+                    <Link to='/residencia' className='link'>
+                        <button className='button'><h1>Residencia</h1></button>
                     </Link>
-                    <Link to='/nosotros'>
-                        <button className='button'><h3>Sobre nosotros</h3></button>
+                    <Link to='/nosotros' className='link'>
+                        <button className='button'><h1>Nuestro personal</h1></button>
                     </Link>
                     {/*
-                    <Link to='/blog'>
+                    <Link to='/blog' className='link'>
                         <button className='button'><h3>Blog</h3></button>
                     </Link>
-                    <Link to='/contacto'>
+                    <Link to='/contacto' className='link'>
                         <button className='button'><h3>Contacto</h3></button>
                     </Link>
                     */}

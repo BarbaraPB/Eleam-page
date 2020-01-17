@@ -69,29 +69,32 @@
     height: 50px;
     background-color: #0D6FB4;
     justify-content: space-between;
-    align-items: center;
     padding-left: 15vw;
     padding-right: 15vw;
 }
 
+.link {
+    text-decoration: none;
+}
 
 .button {
     display: flex;
     flex: 1;
+    height: 50px;
     background-color: transparent;
     border: none;
-    cursor: pointer;
-    transition-duration: 250ms;
-    height: 50px;
     padding-left: 50px;
     padding-right: 50px;
+    cursor: pointer;
+    transition-duration: 250ms;
+    align-items: center;
 }
 
 .button:hover {
     background-color: #2185cc;
 }
 
-.button h3{
+.button h1{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;

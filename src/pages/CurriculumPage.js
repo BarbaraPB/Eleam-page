@@ -22,12 +22,16 @@ export default class Curriculum extends Component {
                             <div className='info-detallada'>
                                 <h2>¿Qué necesitamos?</h2>
                                 <h3>En nuestra residencia necesitamos gente comprometida tanto con nuestros habitantes como con los demas trabajadores, nos esmeramos en tener un grato ambiente acogedor para poder llevar una mejor convivencia y estabilidad tanto física como emosional.</h3>
-                                <img src={unete} alt='Unete' className='unete'/>
+                                <div className='unete'>
+                                    <img src={unete} alt='Unete'/>
+                                </div>
                             </div>
                             <div className='info-detallada'>
                                 <h2>¿Qué debes hacer?</h2>
-                                <h3>Sólo debes enviarnos a nuestro correo tu curriculum vitae y en la sección de 'asunto' indicar el puesto al que quieres postular, luego de eso solo debes esperar nuestro correo en donde te responderemos aa.</h3>
-                                <img src={mail} alt='Indicaciones' className='mail-curriculum'/>
+                                <h3>Sólo debes enviarnos a nuestro correo tu curriculum vitae y en la sección de 'asunto' indicar el puesto al que quieres postular, luego de eso solo debes esperar nuestro correo en donde te responderemos, te esperamos con ansias!</h3>
+                                <div className='mail-curriculum'>
+                                    <img src={mail} alt='Indicaciones'/>
+                                </div>
                             </div>
                         </div>
                     </div>

@@ -12,10 +12,15 @@ import medicine from '../assets/icons/medicine.png'
 import visit from '../assets/icons/visit.png'
 import art from '../assets/icons/art.png'
 
+import { Helmet } from "react-helmet";
+
 export default class ServiciosPage extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>Nuestros servicios - Casa de reposo Rancagua</title>
+                </Helmet>
                 <Header/>
                 <div className='servicios-container'>
                     <div style={{width:'100vw'}}>

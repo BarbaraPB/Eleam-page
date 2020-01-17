@@ -7,10 +7,15 @@ import '../styles/ResidenciaPage.css'
 import head from '../assets/images/headResidencia.png'
 import collage from '../assets/images/collage.png'
 
+import { Helmet } from "react-helmet";
+
 export default class ResidenciaPage extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>La residencia - Casa de reposo Rancagua</title>
+                </Helmet>
                 <Header/>
                 <div className='residencia-container'>
                     <div style={{maxWidth:'100vw'}}>

@@ -14,10 +14,15 @@ import kine2 from '../assets/icons/kine2.png'
 import terapia1 from '../assets/icons/terapia1.png'
 import terapia2 from '../assets/icons/terapia2.png'
 
+import { Helmet } from "react-helmet";
+
 export default class NosotrosPage extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>Nuestro personal - Casa de reposo Rancagua</title>
+                </Helmet>
                 <Header/>
                 <div className='nosotros-container'>
                     <div style={{maxWidth:'100vw'}}>

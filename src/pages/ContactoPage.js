@@ -19,6 +19,7 @@ export default class ContactoPage extends Component {
                     <div className='servicios-fondo'>
                         
                     </div>
+
                 </div>
                 <Curriculum/>
                 <Footer/>

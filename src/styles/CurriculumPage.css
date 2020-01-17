@@ -75,16 +75,25 @@
     margin-inline: 30px;
 }
 
-.unete {
-    margin-top: 80px;
-    height: 300px;
-    width: 300px;
+,.info-detallada img{
+    height: 50px;
+    width: 50px;
 }
 
-.mail-curriculum {
-    margin-top: 100px;
-    height: 300px;
-    width: 300px;
+.unete{
+    flex-direction: column;
+    align-items: center;
+    margin-block: 30px;
+    height: 450px;
+    width: 150px;
+}
+
+.mail-curriculum{
+    flex-direction: column;
+    align-items: center;
+    margin-block: 30px;
+    height: 450px;
+    width: 150px;
 }
 
 .trabajaConNosotros{

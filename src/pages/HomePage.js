@@ -5,11 +5,15 @@ import Curriculum from '../components/CV'
 import '../styles/HomePage.css'
 
 import { Link } from'react-router-dom'
+import { Helmet } from "react-helmet";
 
 export default class HomePage extends Component {
     render() {
         return (
             <div>
+                <Helmet>
+                    <title>Casa de reposo para adultos mayores en Rancagua</title>
+                </Helmet>
                 <Header/>
                 <div className='home-container'>
                     <div className='home-fondo'>

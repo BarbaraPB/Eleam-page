@@ -20,6 +20,7 @@ export default class ServiciosPage extends Component {
             <div>
                 <Helmet>
                     <title>Nuestros servicios - Casa de reposo Rancagua</title>
+                    <meta name="description" content="Servicios a domicilio y en casa de reposo para adultos mayores en Rancagua."/>
                 </Helmet>
                 <Header/>
                 <div className='servicios-container'>

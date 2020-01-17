@@ -13,6 +13,7 @@ export default class HomePage extends Component {
             <div>
                 <Helmet>
                     <title>Casa de reposo para adultos mayores en Rancagua</title>
+                    <meta name="description" content="Casa de reposo y establecimiento de larga estadía para adultos mayores en Rancagua."/>
                 </Helmet>
                 <Header/>
                 <div className='home-container'>

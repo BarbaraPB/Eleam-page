@@ -47,10 +47,10 @@ export default class Header extends Component {
                     </div>
                 </div>
                 <div className='header-button'>
-                    <Link to='/'>
+                    <Link to='/' style={{textDecoration: 'none'}}>
                         <button className='button'><h3>Inicio</h3></button>
                     </Link>
-                    <Link to='/servicios'>
+                    <Link to='/servicios' style={{textDecoration: 'none'}}>
                         <button className='button'><h3>Tipos de servicios</h3></button>
                     </Link>
                     <Link to='/residencia'>

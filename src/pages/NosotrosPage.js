@@ -22,6 +22,7 @@ export default class NosotrosPage extends Component {
             <div>
                 <Helmet>
                     <title>Nuestro personal - Casa de reposo Rancagua</title>
+                    <meta name="description" content="Nuestro personal está especializado en dar una buena experiencia a los adultos mayores durante su estadía en nuestra casa de reposo."></meta>
                 </Helmet>
                 <Header/>
                 <div className='nosotros-container'>

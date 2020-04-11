@@ -1,0 +1,61 @@
+.residencia-container {
+    flex:1;
+    display: flex;
+    flex-direction: column;
+}
+
+.residencia-head {
+    min-width: 100%;
+    object-fit: cover;
+    height: 30vh;
+    border:none;
+}
+
+.residencia-fondo {
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    background: #F3F8FB;
+    margin-top: 60px;
+    padding: 48px;
+    margin-left: 90px;
+    margin-right: 90px;
+    align-items: center;
+}
+
+.residencia-title {
+    width: 50vw;
+    align-items: center;
+    justify-content: center;
+}
+
+.residencia-title h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 30px;
+    color: #0984E3;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.residencia-title h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 15px;
+    color: #999999;
+    text-align: center;
+}
+
+.collage-residencia {
+    max-width: 100%;
+    margin-top: 50px;
+}
+
+.collage-residencia img{
+    max-width: 100%;
+}

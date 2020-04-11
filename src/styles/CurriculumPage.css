@@ -1,0 +1,92 @@
+.curriculum-container {
+    flex:1;
+    display: flex;
+    flex-direction: column;
+}
+
+.curriculum-head {
+    max-width: 100%;
+    height: 240px;
+    border:none;
+}
+
+.curriculum-fondo {
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    background: #f8e9d9;
+    margin-block: 60px;
+    margin-inline: 80px;
+    align-items: center;
+}
+
+.info-curriculum-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.curriculum-fondo h1{
+    font-family: 'Roboto Condensed',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 20px;
+    color: #ff9e35;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.info-curriculum-text {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    margin-inline: 50px;
+    margin-block: 30px;
+}
+
+.curriculum-fondo h2{
+    font-family: 'Roboto mono',monospace;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 19px;
+    line-height: 20px;
+    color: #ff9728;
+    margin-top: 17px;
+}
+
+.curriculum-fondo h3{
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    color: #ff9728;
+    margin-top: 15px;
+}
+
+.info-detallada {
+    flex: 1;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    margin-inline: 30px;
+}
+
+.info-detallada img{
+    flex-direction: column;
+    align-items: center;
+    margin-block: 30px;
+    height: 450px;
+    width: 450px;
+}
+
+
+.trabajaConNosotros{
+    height: 350px;
+    width: 350px;
+    border:none;
+    margin-block: 60px;
+}

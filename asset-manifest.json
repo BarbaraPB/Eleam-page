@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85fe6aaf.chunk.css",
+    "main.js": "/static/js/main.1a67f966.chunk.js",
+    "main.js.map": "/static/js/main.1a67f966.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.772a851f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.772a851f.js.map",
+    "static/js/2.421011e6.chunk.js": "/static/js/2.421011e6.chunk.js",
+    "static/js/2.421011e6.chunk.js.map": "/static/js/2.421011e6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.53e2d3c01da67b1bf186fb31f8bc270b.js": "/precache-manifest.53e2d3c01da67b1bf186fb31f8bc270b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.85fe6aaf.chunk.css.map": "/static/css/main.85fe6aaf.chunk.css.map",
+    "static/js/2.421011e6.chunk.js.LICENSE": "/static/js/2.421011e6.chunk.js.LICENSE",
+    "static/media/HomePage.css": "/static/media/domicilio.be07af56.png",
+    "static/media/collage.png": "/static/media/collage.3ff7e74f.png",
+    "static/media/doctor.png": "/static/media/doctor.a4040890.png",
+    "static/media/doctora.png": "/static/media/doctora.6434d72c.png",
+    "static/media/enfermero.png": "/static/media/enfermero.5770026d.png",
+    "static/media/headContacto.png": "/static/media/headContacto.018aa34d.png",
+    "static/media/headCurriculum.png": "/static/media/headCurriculum.e9341336.png",
+    "static/media/headNosotros.png": "/static/media/headNosotros.36a54027.png",
+    "static/media/headResidencia.png": "/static/media/headResidencia.742178be.png",
+    "static/media/headServicios.png": "/static/media/headServicios.c42e74eb.png",
+    "static/media/kine1.png": "/static/media/kine1.e660320c.png",
+    "static/media/kine2.png": "/static/media/kine2.b2eb719b.png",
+    "static/media/logo.png": "/static/media/logo.2f5601d4.png",
+    "static/media/mailCurriculum.png": "/static/media/mailCurriculum.b8566074.png",
+    "static/media/terapia1.png": "/static/media/terapia1.17bb91c0.png",
+    "static/media/terapia2.png": "/static/media/terapia2.a51ba64f.png",
+    "static/media/trabajaConNosotros.png": "/static/media/trabajaConNosotros.a63814f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.772a851f.js",
+    "static/js/2.421011e6.chunk.js",
+    "static/css/main.85fe6aaf.chunk.css",
+    "static/js/main.1a67f966.chunk.js"
+  ]
+}
